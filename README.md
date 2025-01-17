@@ -1,10 +1,24 @@
 # 15444 Hopewell Road Guide
 
+## Service Providers
+### Power
+- **Provider**: Sawnee EMC
+### Internet
+- **Provider**: Xfinity
+### Termite Bond and Pest Control
+- **Provider**: Breda Pest
+### Trash
+- **Provider**: Republic Services
+### Landscaping
+- **Provider**: Keith Berne
+  - **Contact**: (404) 513-8114
+  - **Background**: Keith owned this property for over 10 years and handled most of the original landscaping. He will trim and maintain all shrubs and bushes, and can mow the tiny lawn, though I did that myself. I recommend using him as most local landscaper crews do not want to spend time trimming and pruning. I went through 3 companies before using Keith. 
+
 ## House Systems
 
 ### Water System
 - **Source**: Private Well
-- **Location**: Under a concrete cover below the large retaining wall southeast of the gravel parking area
+- **Location**: Under a concrete cover below the large retaining wall southeast of the gravel parking area near the trampoline
 - **Maintenance**:
 	- Annual testing of well water is recommended by the State of Georgia
 	  - Yearly sterilization with chlorine is advised
@@ -18,6 +32,12 @@
 		- Attach garden hose to drain port at the bottom
 		- Run hose out a basement door
 		- Drain
+- Water softener
+  - in crawlspace area in basement behind the stairs
+  - monthly, dump a 40lb bag of Diamond Crystal Bright and Soft Water Softener Salt Pellets (from Home Depot) into the 'trash can'.
+  - the system auto-backwashes itself, so ensure the drain hose is unblocked
+    - clear hose in the shed under the deck, near the door
+    - make sure it drains into one of the drains in that area so water won't pool 
 
 ### Septic System
 - **Location**: Northeast corner in front of the house
@@ -96,22 +116,6 @@
 - Gutters
 	- The gutters _must_ be cleaned out at least twice a year, preferably in December and in May
 	- James Lockwood, (770) 789-1606, $250
-
------
-
-## Service Providers
-### Power
-- **Provider**: Sawnee EMC
-### Internet
-- **Provider**: Xfinity
-### Termite Bond and Pest Control
-- **Provider**: Breda Pest
-### Trash
-- **Provider**: Republic Services
-### Landscaping
-- **Provider**: Keith Berne
-  - **Contact**: (404) 513-8114
-  - **Background**: Keith owned this property for over 10 years and handled most of the original landscaping
 
 --------
 ## Network Setup
